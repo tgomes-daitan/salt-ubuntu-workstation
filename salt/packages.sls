@@ -6,3 +6,5 @@ ubuntu.packages:
       - gitk
       - meld
       - vim
+      - expect
+      - indicator-cpufreq
